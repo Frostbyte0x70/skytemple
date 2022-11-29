@@ -4,7 +4,7 @@ git+https://github.com/skytemple/skytemple-dtef@main#egg=skytemple_dtef
 git+https://github.com/skytemple/skytemple-icons@main#egg=skytemple_icons
 range-typed-integers >= 1.0.0
 pygobject==3.42.1
-pycairo==1.18.2; sys_platform != "win32"
+pycairo==1.23.0; sys_platform != "win32"
 natsort==8.1.0
 tilequant==0.4.0.post0
 git+https://github.com/skytemple/skytemple-ssb-debugger@master#egg=skytemple_ssb_debugger
